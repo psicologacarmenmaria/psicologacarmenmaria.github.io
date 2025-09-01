@@ -1,0 +1,31 @@
+<footer class="site-footer">
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Carmen María Martín Fuentes</h3>
+                <p>Psicóloga General Sanitaria</p>
+                <p><strong>Nº Colegiada: {{ site.colegiada }}</strong></p>
+            </div>
+
+            <div class="footer-section">
+                <h3>Contacto</h3>
+                <p>{{ site.phone }}</p>
+                <p>{{ site.email }}</p>
+                <p>{{ site.address }}</p>
+            </div>
+
+            <div class="footer-section">
+                <h3>Información Legal</h3>
+                <ul class="footer-links">
+                    <li><a href="{{ '/aviso-legal' | relative_url }}">Aviso Legal</a></li>
+                    <li><a href="{{ '/privacidad' | relative_url }}">Política de Privacidad</a></li>
+                    <li><a href="{{ '/cookies' | relative_url }}">Política de Cookies</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <p>&copy; {{ 'now' | date: '%Y' }} Carmen María Martín. Todos los derechos reservados.</p>
+        </div>
+    </div>
+</footer>

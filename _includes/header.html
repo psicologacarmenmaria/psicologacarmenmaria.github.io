@@ -1,0 +1,27 @@
+<header class="site-header">
+    <div class="container">
+        <div class="header-content">
+            <div class="logo-section">
+                <a href="{{ '/' | relative_url }}" class="logo-link">
+                    <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="Carmen María Martín - Psicóloga" class="logo">
+                </a>
+            </div>
+
+            <nav class="main-nav">
+                <ul class="nav-list">
+                    <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
+                    <li><a href="{{ '/sobre-mi' | relative_url }}">Sobre mí</a></li>
+                    <li><a href="{{ '/servicios' | relative_url }}">Servicios</a></li>
+                    <li><a href="{{ '/emdr' | relative_url }}">EMDR</a></li>
+                    <li><a href="{{ '/contacto' | relative_url }}" class="contact-btn">Contacto</a></li>
+                </ul>
+            </nav>
+
+            <button class="mobile-menu-toggle" aria-label="Menú">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </div>
+</header>
