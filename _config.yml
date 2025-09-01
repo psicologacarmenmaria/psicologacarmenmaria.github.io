@@ -1,0 +1,31 @@
+# Site settings
+title: Carmen María Martín - Psicóloga en Granada
+email: carmen97mf@gmail.com
+description: >-
+  Psicóloga General Sanitaria especializada en EMDR.
+  Terapia presencial en Granada (Zaidín) y online.
+  Colegiada AO13008.
+baseurl: ""
+url: "https://psicologacarmenmaria.github.io"
+
+# Contact information
+phone: "722 628 237"
+address: "Zaidín, Granada"
+colegiada: "AO13008"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  services:
+    output: false
+
+# Default values
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
