@@ -426,19 +426,19 @@ h1, h2, h3, h4, h5, h6 {
     .hero-content {
         grid-template-columns: 1fr;
     }
-    
+
     .hero-image {
         order: -1;
     }
-    
+
     .main-nav {
         display: none;
     }
-    
+
     .mobile-menu-toggle {
         display: flex;
     }
-    
+
     .services-grid,
     .modalities-grid {
         grid-template-columns: 1fr;
@@ -516,7 +516,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: 1rem 0;
 }
 
-.session-duration {
+.pricing-discount {
     color: var(--text-light);
     margin-bottom: 1rem;
 }
