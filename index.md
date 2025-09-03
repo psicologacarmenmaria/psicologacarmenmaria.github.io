@@ -58,14 +58,64 @@ layout: default
     <div class="container">
         <div class="approach-content">
             <div class="approach-text">
-                <h2>Mi Enfoque Terapéutico</h2>
+                <h2>Mi enfoque terapéutico: Ciencia + Humanidad = Resultados reales</h2>
                 <p>
-                    Creo en un espacio terapéutico seguro y acogedor donde puedas expresarte libremente.
-                    Mi trabajo combina técnicas validadas científicamente con un trato cercano y personalizado.
+                    <strong>¿Te has preguntado por qué algunas terapias funcionan y otras no?</strong> La diferencia está en combinar lo que la ciencia ha demostrado que funciona con un enfoque completamente personalizado para ti.
+                </p>
+                <h3>Tú eres el protagonista, yo soy tu guía estratégica</h3>
+                <p>
+                    Olvídate de esas terapias donde te sientas como un paciente pasivo que solo escucha. <strong>En mi consulta, tú eres el verdadero agente del cambio.</strong> Mi trabajo es ser tu guía experta, esa persona que te acompaña paso a paso mientras tú tomas las riendas de tu vida.
                 </p>
                 <p>
-                    Cada persona es única, y por eso adapto mi enfoque a tus necesidades específicas,
-                    acompañándote en tu proceso de cambio y crecimiento personal.
+                    Trabajamos juntos a través de:
+                </p>
+                <ul>
+                    <li><strong>Diálogo constructivo</strong> que te ayuda a ver las cosas desde nuevas perspectivas</li>
+                    <li><strong>Tareas prácticas</strong> diseñadas específicamente para tus necesidades</li>
+                    <li><strong>Estrategias basadas en terapia cognitivo-conductual</strong> - porque uso solo lo que la ciencia ha demostrado que realmente funciona</li>
+                </ul>
+                <h3>Cada persona es un mundo (y yo lo entiendo así)</h3>
+                <p>
+                    No hay dos historias iguales, por eso no hay dos tratamientos iguales. <strong>Tu terapia será tan única como tú.</strong>
+                </p>
+                <p>
+                    Cuando analizo tu caso, tengo en cuenta todo lo que te hace ser quien eres:
+                </p>
+                <ul>
+                    <li>Tu historia de vida completa</li>
+                    <li>Tu red de apoyo familiar</li>
+                    <li>Tus experiencias pasadas (incluidos los traumas)</li>
+                    <li>Tus fortalezas únicas</li>
+                    <li>Tus objetivos específicos</li>
+                </ul>
+                <h3>¿Traumas del pasado que no te dejan vivir el presente?</h3>
+                <p>
+                    Aquí es donde entra una de mis herramientas más poderosas: <strong>EMDR (Eye Movement Desensitization and Reprocessing).</strong>
+                </p>
+                <p>
+                    Esta técnica, científicamente validada, es extraordinariamente eficaz para:
+                </p>
+                <ul>
+                    <li>Reprocesar experiencias traumáticas</li>
+                    <li>Liberar el peso emocional del pasado</li>
+                    <li><strong>Permitirte finalmente vivir y disfrutar tu presente</strong></li>
+                </ul>
+                <p>
+                    No se trata de olvidar tu historia, sino de que deje de controlarte.
+                </p>
+
+                <h3>El resultado: Una vida donde TÚ decides</h3>
+
+                <p>
+                    <strong>Imagina por un momento:</strong> ¿Cómo sería tu vida si pudieras gestionar tus emociones con confianza, si tu pasado fuera solo historia y no una carga, si fueras realmente el protagonista de tu propia historia?
+                </p>
+
+                <p>
+                    Eso no es solo un sueño. Es exactamente hacia donde trabajamos juntos.
+                </p>
+
+                <p>
+                    ¿Listo para dar el paso más importante hacia tu bienestar? Estoy aquí para acompañarte en este viaje.
                 </p>
                 <a href="/sobre-mi" class="btn btn-text">Conoce más sobre mí →</a>
             </div>
