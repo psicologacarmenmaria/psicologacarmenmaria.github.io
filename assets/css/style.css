@@ -1,3 +1,38 @@
+/* About: credentials badge */
+.credentials {
+    display: inline-block;
+    background: var(--primary-pink);
+    color: var(--primary-brown);
+    font-weight: bold;
+    padding: 0.4em 1.2em;
+    border-radius: 20px;
+    font-size: 1.1rem;
+    margin-bottom: 1.2rem;
+    box-shadow: 0 2px 8px var(--shadow-light);
+}
+
+/* About: highlighted paragraph */
+.about-highlight {
+    font-size: 1.15rem;
+    color: var(--secondary-brown);
+    font-weight: 500;
+    margin-bottom: 1.2rem;
+}
+
+/* About: more spacing between paragraphs and headings */
+.about-content p {
+    margin-bottom: 1.3rem;
+}
+.about-content h2, .about-content h3 {
+    margin-top: 2.2rem;
+    margin-bottom: 1.2rem;
+}
+
+/* About: adjust list indentation in qualifications */
+.qualifications ul {
+    padding-left: 2em;
+    margin-bottom: 1.3rem;
+}
 /* Testimonials section */
 .testimonials {
     padding: 4rem 0;
@@ -578,23 +613,6 @@ h1, h2, h3, h4, h5, h6 {
     width: 100%;
     border-radius: 15px;
     box-shadow: 0 5px 20px var(--shadow-medium);
-}
-
-.philosophy-quote {
-    background: var(--cream);
-    padding: 2rem;
-    border-left: 4px solid var(--secondary-pink);
-    border-radius: 10px;
-    margin: 2rem 0;
-    font-style: italic;
-}
-
-.philosophy-quote cite {
-    display: block;
-    text-align: right;
-    margin-top: 1rem;
-    font-style: normal;
-    color: var(--primary-brown);
 }
 
 /* Pricing cards */

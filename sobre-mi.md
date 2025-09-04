@@ -7,65 +7,68 @@ subtitle: Conoce mi trayectoria y enfoque terapéutico
 <div class="about-content">
     <div class="about-intro">
         <img src="/assets/img/carmen-foto-2.jpg" alt="Carmen María Martín" class="about-photo">
-        
+
         <div class="about-text">
             <h2>Carmen María Martín Fuentes</h2>
             <p class="credentials">Psicóloga General Sanitaria - Colegiada {{ site.colegiada }}</p>
-            
-            <p>
-                Mi vocación por la psicología nace del profundo interés por comprender y ayudar a las personas 
-                en sus procesos vitales. Creo firmemente que todos tenemos la capacidad de superar nuestras 
-                dificultades y crecer a partir de ellas.
+
+            <p class="about-highlight">
+                Psicóloga General Sanitaria especializada en ayudarte a ser la mejor versión de ti mismo
             </p>
-            
+
             <p>
-                Mi enfoque terapéutico integra diferentes corrientes psicológicas, adaptándome siempre a las 
-                necesidades únicas de cada persona. La formación continua y la supervisión constante me permiten 
-                ofrecer un servicio actualizado y de calidad.
+                ¿Sabes esa sensación de querer ayudar a otros que algunos llevamos dentro desde siempre? Esa ha sido mi brújula desde muy joven. Mientras otros dudaban sobre su futuro, yo ya sabía que mi propósito era acompañar a las personas en sus momentos más importantes.
             </p>
         </div>
     </div>
-    
+
     <div class="qualifications">
-        <h2>Formación Académica</h2>
-        
-        <div class="qualification-list">
-            <div class="qualification-item">
-                <h3>🎓 Licenciatura en Psicología</h3>
-                <p>Universidad de Granada</p>
-            </div>
-            
-            <div class="qualification-item">
-                <h3>🏥 Habilitación como Psicóloga General Sanitaria</h3>
-                <p>Capacitación oficial para el ejercicio sanitario de la psicología</p>
-            </div>
-            
-            <div class="qualification-item">
-                <h3>📚 Máster en Orientación Educativa</h3>
-                <p>Especialización en procesos de aprendizaje y desarrollo personal</p>
-            </div>
-            
-            <div class="qualification-item">
-                <h3>👁️ Formación en EMDR</h3>
-                <p>Eye Movement Desensitization and Reprocessing - Terapia avalada por la OMS para el tratamiento del trauma</p>
-            </div>
-        </div>
-    </div>
-    
-    <div class="philosophy">
-        <h2>Mi Filosofía de Trabajo</h2>
-        
-        <blockquote class="philosophy-quote">
-            "Me doy cuenta que si fuera estable, prudente y estático viviría en la muerte. 
-            Por consiguiente, acepto la confusión, la incertidumbre, el miedo y los altibajos emocionales, 
-            porque ése es el precio que estoy dispuesto a pagar por una vida fluida, perpleja y excitante."
-            <cite>- Carl Rogers</cite>
-        </blockquote>
+        <h2>Mi camino hacia ti comenzó mucho antes del título</h2>
+        <p>
+            Antes de convertirme oficialmente en psicóloga, ya estaba en las trincheras: colaborando con Cruz Roja, trabajando en Servicios Sociales, haciendo voluntariados con niños, adolescentes y adultos. <strong>Cada experiencia me enseñó algo diferente sobre el corazón humano</strong> y me ayudó a desarrollar esa sensibilidad que hoy pongo al servicio de mis pacientes.
+        </p>
+        <p>
+            Esos años de voluntariado no fueron solo "experiencia" en mi CV. Fueron la escuela de vida que me convirtió en la profesional que soy hoy: <strong>madura, empática y, sobre todo, comprometida de verdad con tu bienestar.</strong>
+        </p>
+
+        <h2>¿Mi mayor privilegio? Trabajar en lo que más amo</h2>
         
         <p>
-            Esta cita de Carl Rogers refleja mi visión de la terapia: un espacio donde explorar, 
-            crecer y abrazar todos los aspectos de nuestra experiencia humana. Mi rol es acompañarte 
-            en este viaje, proporcionándote las herramientas y el apoyo necesarios para tu proceso.
+            No todo el mundo tiene la suerte de levantarse cada día sabiendo que va a dedicar su tiempo a lo que realmente le apasiona. <strong>Mi gran afición es ayudar a las personas, y tengo el privilegio de vivir de ello.</strong>
+        </p>
+        <p>
+            Cuando trabajamos juntos, no solo recibes mi conocimiento técnico. Recibes toda mi pasión puesta al servicio de que tú:
+        </p>
+        <ul>
+            <li>Te conozcas mejor (de verdad, no de forma superficial)</li>
+            <li>Aprendas a valorarte como mereces</li>
+            <li>Gestiones tus emociones sin que te desborden</li>
+            <li><strong>Te conviertas en el protagonista de tu propia vida</strong></li>
+        </ul>
+
+        <h2>Formación que marca la diferencia</h2>
+
+        <p>
+            Porque tu bienestar merece lo mejor, mi preparación va mucho más allá de lo básico:
+        </p>
+        <div class="qualification-list">
+            <div class="qualification-item">
+                <h3>🎓 Máster en Psicología General Sanitaria</h3>
+                <p>La base sólida</p>
+            </div>
+
+            <div class="qualification-item">
+                <h3>📚 Máster de Profesorado con especialidad en Orientación Educativa</h3>
+                <p>Para entender todos los contextos</p>
+            </div>
+
+            <div class="qualification-item">
+                <h3>👁️ Doble Experto en Clínica e Intervención en Trauma y EMDR</h3>
+                <p>Herramientas especializadas para cuando más las necesitas</p>
+            </div>
+        </div>
+        <p>
+            <strong>¿Lo mejor de todo?</strong> Nunca dejo de formarme. Cada curso, cada nuevo aprendizaje, es una oportunidad de ofrecerte un tratamiento aún mejor.
         </p>
     </div>
 </div>
