@@ -35,11 +35,11 @@ layout: default
                 <p>La ansiedad no es el enemigo que creemos que es. Es el susurro urgente de una mente que intenta protegerte, pero que ha olvidado cuándo parar de gritar.</p>
             </a>
 
-            <div class="service-card">
+            <a href="/depresion/" class="service-card">
                 <div class="service-icon">💭</div>
-                <h3>Depresión y Duelo</h3>
-                <p>Trabajo contigo para superar la tristeza persistente y recuperar la motivación y alegría.</p>
-            </div>
+                <h3>Duelo y Depresión</h3>
+                <p>El duelo no es algo que superas; es algo que integras. No se trata de olvidar a quien perdiste, sino de aprender a llevarlo contigo mientras vuelves a vivir.</p>
+            </a>
 
             <div class="service-card">
                 <div class="service-icon">🔄</div>

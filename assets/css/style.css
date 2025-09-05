@@ -599,14 +599,6 @@ a.service-card {
     color: var(--text-light);
 }
 
-/* Additional specific styles for inner pages */
-.about-content,
-.emdr-content,
-.contact-content {
-    max-width: 1000px;
-    margin: 0 auto;
-}
-
 .about-intro {
     display: grid;
     grid-template-columns: 300px 1fr;
