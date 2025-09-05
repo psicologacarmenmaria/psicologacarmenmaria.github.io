@@ -29,15 +29,15 @@ layout: default
         <h2 class="section-title">¿En qué puedo ayudarte?</h2>
 
         <div class="services-grid">
-            <div class="service-card">
+            <a href="/ansiedad/" class="service-card">
                 <div class="service-icon">🌱</div>
                 <h3>Ansiedad y Estrés</h3>
-                <p>Aprende a gestionar la ansiedad y recupera el control de tu vida con herramientas efectivas.</p>
-            </div>
+                <p>La ansiedad no es el enemigo que creemos que es. Es el susurro urgente de una mente que intenta protegerte, pero que ha olvidado cuándo parar de gritar.</p>
+            </a>
 
             <div class="service-card">
                 <div class="service-icon">💭</div>
-                <h3>Depresión</h3>
+                <h3>Depresión y Duelo</h3>
                 <p>Trabajo contigo para superar la tristeza persistente y recuperar la motivación y alegría.</p>
             </div>
 

@@ -1,3 +1,27 @@
+/* Unified style for paragraphs and lists across all pages */
+p, .page-content p, .approach p, .modalities p, .services-preview p, .site-footer p {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.1rem;
+    color: var(--text-light);
+    margin-bottom: 1.5rem;
+    line-height: 1.7;
+}
+
+ul, .page-content ul, .approach ul, .modalities ul, .services-preview ul, .site-footer ul {
+    padding-left: 2em;
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+    color: var(--text-light);
+    list-style: disc inside;
+}
+
+ol, .page-content ol, .approach ol, .modalities ol, .services-preview ol, .site-footer ol {
+    padding-left: 2em;
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+    color: var(--text-light);
+    list-style: decimal inside;
+}
 /* About: credentials badge */
 .credentials {
     display: inline-block;
@@ -12,27 +36,13 @@
 }
 
 /* About: highlighted paragraph */
-.about-highlight {
+p.about-highlight {
     font-size: 1.15rem;
     color: var(--secondary-brown);
     font-weight: 500;
     margin-bottom: 1.2rem;
 }
 
-/* About: more spacing between paragraphs and headings */
-.about-content p {
-    margin-bottom: 1.3rem;
-}
-.about-content h2, .about-content h3 {
-    margin-top: 2.2rem;
-    margin-bottom: 1.2rem;
-}
-
-/* About: adjust list indentation in qualifications */
-.qualifications ul {
-    padding-left: 2em;
-    margin-bottom: 1.3rem;
-}
 /* Testimonials section */
 .testimonials {
     padding: 4rem 0;
@@ -356,6 +366,12 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 1rem;
 }
 
+a.service-card {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
 /* Approach section */
 .approach {
     background-color: var(--cream);
@@ -374,19 +390,8 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 2rem;
 }
 
-.approach p {
-    font-size: 1.1rem;
-    margin-bottom: 1.5rem;
-    color: var(--text-light);
-}
 
 /* Adjustment for the approach section list */
-.approach ul {
-    padding-left: 1.5em;
-    color: var(--text-light);
-    font-size: 1.1rem;
-    margin-bottom: 1.5rem;
-}
 
 /* Modalities section */
 .modalities {
