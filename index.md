@@ -41,11 +41,11 @@ layout: default
                 <p>El duelo no es algo que superas; es algo que integras. No se trata de olvidar a quien perdiste, sino de aprender a llevarlo contigo mientras vuelves a vivir.</p>
             </a>
 
-            <div class="service-card">
-                <div class="service-icon">🔄</div>
-                <h3>EMDR</h3>
-                <p>Terapia especializada para procesar traumas y experiencias difíciles de manera efectiva.</p>
-            </div>
+            <a href="/trastornos-conducta-alimentaria/" class="service-card">
+                <div class="service-icon">🥗</div>
+                <h3>Trastornos de la Conducta Alimentaria</h3>
+                <p>Cuando el TCA habla tan fuerte que ya no escuchas tu propia voz, la recuperación comienza susurrando: <i>«tú eres más que este trastorno».</i></p>
+            </a>
         </div>
 
         <div class="text-center">
