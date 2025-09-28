@@ -6,11 +6,11 @@ layout: default
     <div class="container">
         <div class="hero-content">
             <div class="hero-text">
-                <h1>Carmen María Martín Fuentes</h1>
-                <h2>Psicóloga General Sanitaria en Granada</h2>
+                <h1>Psicóloga en Granada - Carmen María Martín Fuentes</h1>
+                <h2>Terapia EMDR, Ansiedad, Depresión y Bienestar Emocional</h2>
                 <p class="hero-description">
                     Especialista en EMDR y Orientación.
-                    Te acompaño en tu proceso de bienestar emocional con terapia presencial en Zaidín y online.
+                    Te acompaño en tu proceso de bienestar emocional con terapia presencial en Granada y online.
                 </p>
                 <div class="hero-buttons">
                     <a href="/contacto" class="btn btn-primary">Solicitar Primera Consulta</a>
@@ -26,7 +26,7 @@ layout: default
 
 <section class="services-preview">
     <div class="container">
-        <h2 class="section-title">¿En qué puedo ayudarte?</h2>
+        <h2 class="section-title">Servicios de Psicología en Granada</h2>
 
         <div class="services-grid">
             <a href="/ansiedad/" class="service-card">
@@ -58,7 +58,7 @@ layout: default
     <div class="container">
         <div class="approach-content">
             <div class="approach-text">
-                <h2>Mi enfoque terapéutico: Ciencia + Humanidad = Resultados reales</h2>
+                <h2>Enfoque terapéutico profesional y humano</h2>
                 <p>
                     <strong>¿Te has preguntado por qué algunas terapias funcionan y otras no?</strong> La diferencia está en combinar lo que la ciencia ha demostrado que funciona con un enfoque completamente personalizado para ti.
                 </p>
@@ -127,7 +127,7 @@ layout: default
 <!-- Testimonios de pacientes -->
 <section class="testimonials">
     <div class="container">
-        <h2 class="section-title">Lo que dicen de mí mis pacientes</h2>
+        <h2 class="section-title">Opiniones de pacientes sobre la terapia psicológica</h2>
         <div class="testimonials-grid">
             <div class="testimonial-card">
                 <span class="testimonial-quote">“</span>
@@ -149,12 +149,12 @@ layout: default
     </div>
 </section>
     <div class="container">
-        <h2 class="section-title">Modalidades de Terapia</h2>
+        <h2 class="section-title">Modalidades de Terapia en Granada y Online</h2>
 
         <div class="modalities-grid">
             <div class="modality-card">
                 <h3>Terapia Presencial</h3>
-                <p>En mi consulta de Zaidín, Granada. Un espacio cálido y acogedor diseñado para tu comodidad.</p>
+                <p>En mi consulta de Granada. Un espacio cálido y acogedor diseñado para tu comodidad.</p>
                 <ul>
                     <li>Ambiente tranquilo y privado</li>
                     <li>Fácil acceso y aparcamiento</li>
@@ -178,7 +178,7 @@ layout: default
 <section class="cta">
     <div class="container">
         <div class="cta-content">
-            <h2>Da el primer paso hacia tu bienestar</h2>
+            <h2>Reserva tu consulta de psicología en Granada</h2>
             <p>Estoy aquí para acompañarte en tu proceso de cambio</p>
             <a href="/contacto" class="btn btn-primary btn-large">Reservar Primera Consulta</a>
         </div>
