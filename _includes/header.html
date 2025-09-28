@@ -13,7 +13,7 @@
                 </div>
             </div>
 
-            <nav class="main-nav">
+            <nav class="main-nav" id="main-nav" aria-label="Navegación principal">
                 <ul class="nav-list">
                     <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
                     <li><a href="{{ '/sobre-mi' | relative_url }}">Sobre mí</a></li>
@@ -23,7 +23,10 @@
                 </ul>
             </nav>
 
-            <button class="mobile-menu-toggle" aria-label="Menú">
+            <button class="mobile-menu-toggle"
+                    aria-label="Abrir menú de navegación"
+                    aria-expanded="false"
+                    aria-controls="main-nav">
                 <span></span>
                 <span></span>
                 <span></span>
