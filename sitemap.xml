@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://psicologacarmenmaria.github.io/</loc>
+  <loc>https://tupsicologaemdr.es/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://psicologacarmenmaria.github.io/sobre-mi</loc>
+  <loc>https://tupsicologaemdr.es/sobre-mi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://psicologacarmenmaria.github.io/tarifas</loc>
+  <loc>https://tupsicologaemdr.es/tarifas</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://psicologacarmenmaria.github.io/emdr</loc>
+  <loc>https://tupsicologaemdr.es/emdr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://psicologacarmenmaria.github.io/contacto</loc>
+  <loc>https://tupsicologaemdr.es/contacto</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

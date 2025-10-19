@@ -4,7 +4,7 @@ Sitio web profesional para gabinete de psicología en Granada, construido con Je
 
 ## 🌐 Sitio en vivo
 
-[psicologacarmenmaria.gituib.io](https://psicologacarmenmaria.github.io)
+[tupsicologaemdr.es](https://tupsicologaemdr.es)
 
 ## 🛠 Tecnología
 

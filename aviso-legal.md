@@ -19,7 +19,7 @@ En cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios
 
 ### Objeto y ámbito de aplicación
 
-Las presentes condiciones generales de uso regulan el acceso y utilización del sitio web psicologacarmenmaria.gitub.io, titularidad de Carmen María Martín Fuentes. El acceso a este sitio web implica la aceptación plena y sin reservas de todas y cada una de las disposiciones incluidas en este Aviso Legal.
+Las presentes condiciones generales de uso regulan el acceso y utilización del sitio web tupsicologaemdr.es, titularidad de Carmen María Martín Fuentes. El acceso a este sitio web implica la aceptación plena y sin reservas de todas y cada una de las disposiciones incluidas en este Aviso Legal.
 
 ### Uso correcto del sitio web
 
