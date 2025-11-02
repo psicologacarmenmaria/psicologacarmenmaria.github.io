@@ -45,6 +45,13 @@ layout: default
                 <h3>Trastornos de la Conducta Alimentaria</h3>
                 <p>Cuando el TCA habla tan fuerte que ya no escuchas tu propia voz, la recuperación comienza susurrando: <i>«tú eres más que este trastorno».</i></p>
             </a>
+
+            <a href="/trauma-psicologico/" class="service-card">
+                <div class="service-icon">🫂</div>
+                <h3>Trauma Psicológico</h3>
+                <p>Las heridas de la infancia no definen quién eres, pero sanarlas te permite elegir quién quieres ser.</p>
+            </a>
+
         </div>
 
         <div class="text-center">
