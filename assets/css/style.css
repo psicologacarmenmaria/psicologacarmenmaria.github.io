@@ -293,24 +293,24 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn-primary {
-    background-color: var(--primary-brown);
-    color: var(--white);
-}
-
-.btn-primary:hover {
-    background-color: var(--secondary-brown);
-    transform: translateY(-2px);
-    box-shadow: 0 5px 15px var(--shadow-medium);
-}
-
-.btn-secondary {
     background-color: var(--white);
     color: var(--primary-brown);
     border: 2px solid var(--primary-brown);
 }
 
-.btn-secondary:hover {
+.btn-primary:hover {
     background-color: var(--primary-pink);
+}
+
+.btn-secondary {
+    background-color: var(--primary-brown);
+    color: var(--white);
+}
+
+.btn-secondary:hover {
+    background-color: var(--secondary-brown);
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px var(--shadow-medium);
 }
 
 .btn-outline {

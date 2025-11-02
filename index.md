@@ -14,7 +14,6 @@ layout: default
                 </p>
                 <div class="hero-buttons">
                     <a href="/contacto" class="btn btn-primary">Solicitar Primera Consulta</a>
-                    <a href="/servicios" class="btn btn-secondary">Ver Servicios</a>
                 </div>
             </div>
             <div class="hero-image">
