@@ -97,10 +97,11 @@ p.about-highlight {
     align-items: center;
 }
 .whatsapp-badge {
-    height: 32px;
+    height: calc(1.6em + 16px);
+    margin-right: 32px;
     vertical-align: middle;
     box-shadow: 0 1px 6px var(--shadow-light);
-    border-radius: 8px;
+    border-radius: 32px;
     background: #fff;
 }
 /* Logo y WhatsApp juntos en el header */
