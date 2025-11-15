@@ -158,6 +158,23 @@ h1, h2, h3, h4, h5, h6 {
     z-index: 100;
 }
 
+/* Hidden header state (applies when scrolling down) */
+.site-header {
+    transform: translateY(0);
+    transition: transform 300ms ease-in-out;
+    will-change: transform;
+}
+
+.site-header--hidden {
+    transform: translateY(-100%);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .site-header {
+        transition: none;
+    }
+}
+
 .header-content {
     display: flex;
     justify-content: space-between;
